@@ -1,2 +1,2 @@
 # RTnews-Scraper
-A simple project to pratice web scrapping.
+A simple project to practice web scrapping.
